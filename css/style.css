@@ -507,7 +507,7 @@ footer span {
         display: none;
     }
     .section-2 {
-        padding: 0 5% 50px;
+        padding: 0 5% 50px;se
     }
     .lora-front-img {
         bottom: 0;
@@ -564,7 +564,7 @@ footer span {
         text-align: center;
         width: 100%;
     }
-    .section-7 {
+    .section-7 p span::before {
         white-space: normal;
     }
     .section-8 {
